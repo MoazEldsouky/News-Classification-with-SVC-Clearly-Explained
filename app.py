@@ -1,8 +1,11 @@
 import gradio as gr
 import joblib
+import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import string
+
+nltk.download("stopwords")
 
 # Load the model
 svc = joblib.load("SVM_model.joblib")
