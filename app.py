@@ -7,7 +7,7 @@ import string
 
 nltk.download('all')
 nltk.download("stopwords")
-
+nltk.download('punkt')
 
 # Load the model
 svc = joblib.load("SVM_model.joblib")
