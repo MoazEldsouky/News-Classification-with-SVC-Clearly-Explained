@@ -5,6 +5,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import string
 
+# Download NLTK requirements
 nltk.download('all')
 nltk.download("stopwords")
 nltk.download('punkt')
