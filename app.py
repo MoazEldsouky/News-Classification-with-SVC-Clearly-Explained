@@ -132,7 +132,7 @@ The Southampton-born singer already has a devoted fanbase, dubbed "Slaysers", an
 
 Baser is joined by CMAT - dubbed "Ireland's answer to Dolly Parton" by the NME thanks to her whip-smart, emotionally-revealing country-pop songs.
 
-There's also a strong showing for British soul and R&B, led by Oxford-born Stevie Wonder fanatic Elmiene.
+There's also a strong showing for British soul and R&B, led by Oxford-born Stevie Wonder fanatic Elmiene
 
 The 22-year-old had a breakout moment in 2021, when his song Golden was chosen to soundtrack Virgil Abloh's final show for Louis Vuitton.
 
