@@ -1,6 +1,6 @@
 # 📰🔍 News Categorizer 98 🎯✨
 
-A Machine Learning-powered web app for classifying news articles into five categories: **Sport, Tech, Entertainment, Politics, and Business**. Built with Gradio, this project leverages an SVM classifier trained on BBC News data, using a **TF-IDF (Term Frequency-Inverse Document Frequency) vectorizer** for feature extraction, and achieves an impressive **98% accuracy**.
+A Machine Learning-powered web app for classifying news articles into five categories: **Sport, Tech, Entertainment, Politics, and Business**. The project leverages an SVM classifier trained on BBC News data, using a **TF-IDF (Term Frequency-Inverse Document Frequency) vectorizer** for feature extraction, and achieves an impressive **98% accuracy**.
 
 ---
 
