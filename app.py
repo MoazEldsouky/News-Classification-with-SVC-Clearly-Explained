@@ -6,9 +6,10 @@ from nltk.tokenize import word_tokenize
 import string
 
 # Download NLTK requirements.
-nltk.download('all')
+nltk.download("punkt")
+nltk.download("punkt_tab")
 nltk.download("stopwords")
-nltk.download('punkt')
+
 
 # Load the model
 svc = joblib.load("SVM_model.joblib")
