@@ -93,13 +93,6 @@ This will launch a Gradio web interface in your browser. Paste any news article,
 ├── preprocess_text_function.pkl # (Optional) Preprocessing function
 └── README.md                 # Project documentation
 ```
-
-**References:**
-- [GitHub Repository](https://github.com/MoazEldsouky/News-Classification-with-SVC-Clearly-Explained)
-- [Hugging Face Space](https://huggingface.co/spaces/moazx/News_Categorizer)
-
-Would you like me to save this to your `README.md` file?
-
 ---
 
 
